@@ -17,6 +17,8 @@ temple-hall.jpg 源自 tmp/qa-2026-11-08/resident-look/device.png；
 擷取時前台為 com.sansa.offline/com.unity3d.player.UnityPlayerActivity；已目視確認佛壇近景與正面小僧，未移動角色或更改遊戲狀態。舊 temple-altar.jpg 保留作歷史素材，首頁不再引用。
 兩張皆為 Android 開發版實機截圖，完整比例呈現，未重繪遊戲內容。
 網站用 JPEG 為縮減下載體積的衍生檔，原圖保留原位。
+google-play-feature-1024x500.jpg 是 Google Play 置頂大圖，JPEG、1024×500、約 79 KB；右側使用完整三尊佛像真機畫面，左側使用朱漆木魚與自然木珠畫框，兩者分開排列。
+google-play-screenshot-01-three-statues.png 與 google-play-screenshot-02-altar-close.png 是兩張 Google Play 手機截圖，均為 1080×1920（9:16）PNG，分別展示三尊佛像全景及佛壇近景。
 
 ## Online 定位與發布
 
@@ -27,7 +29,7 @@ privacy.html 已改為線上版本隱私政策草案，涵蓋訪客／連線識�
 目前服務端尚未定案，不虛構供應商、保留期限、處理地區、帳號或雲端存檔現狀，也不承諾解除安裝可刪除服務端資料。
 正式發布前，依實際服務端、SDK 及最終發行包定稿，補充發布者、直接聯絡方式、保留期限、適用年齡、處理地區及供應商；再設定正式生效日期。
 網站本身仍不使用 Cookie 或 localStorage，語言透過 URL 傳遞；託管日誌須另依供應商確認。
-目前沒有正式商店網址，首頁不放假下載按鈕。取得網址後再接入。
+正式 Google Play 商店網址：https://play.google.com/store/apps/details?id=com.match3games.puzzle&hl=en。英文、繁中與韓文首頁均提供商店下載入口；發布前確認商店頁面名稱、應用狀態及韓國地區可用性。
 將網站部署到公開 HTTPS 後，才能在 Play Console 填寫實際的政策網址；本輪未部署。
 
 ## 本機預覽
